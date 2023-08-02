@@ -11484,5 +11484,77 @@
       "locationPurposeTier": 2,
       "plotArea": 111.39074496
     }
+  ],
+  "clients": [
+    {
+      "HouseTitle": "Beautiful Family Home",
+      "FullNames": "John Doe",
+      "Email": "johndoe@example.com",
+      "MobileNumber": "+1 123-456-7890",
+      "DateofOccupancy": "2023-08-01"
+    },
+    {
+      "HouseTitle": "Cozy Cottage",
+      "FullNames": "Jane Smith",
+      "Email": "janesmith@example.com",
+      "MobileNumber": "+1 987-654-3210",
+      "DateofOccupancy": "2023-08-15"
+    },
+    {
+      "HouseTitle": "Modern Apartment",
+      "FullNames": "Michael Johnson",
+      "Email": "michaeljohnson@example.com",
+      "MobileNumber": "+1 555-555-5555",
+      "DateofOccupancy": "2023-09-01"
+    },
+    {
+      "HouseTitle": "Spacious Villa",
+      "FullNames": "Emily Williams",
+      "Email": "emilywilliams@example.com",
+      "MobileNumber": "+1 444-444-4444",
+      "DateofOccupancy": "2023-09-15"
+    },
+    {
+      "HouseTitle": "Charming Bungalow",
+      "FullNames": "William Brown",
+      "Email": "williambrown@example.com",
+      "MobileNumber": "+1 777-777-7777",
+      "DateofOccupancy": "2023-10-01"
+    },
+    {
+      "HouseTitle": "Elegant Townhouse",
+      "FullNames": "Olivia Lee",
+      "Email": "olivialeel@example.com",
+      "MobileNumber": "+1 222-222-2222",
+      "DateofOccupancy": "2023-10-15"
+    },
+    {
+      "HouseTitle": "Quaint Cabin",
+      "FullNames": "James Miller",
+      "Email": "jamesmiller@example.com",
+      "MobileNumber": "+1 333-333-3333",
+      "DateofOccupancy": "2023-11-01"
+    },
+    {
+      "HouseTitle": "Luxurious Mansion",
+      "FullNames": "Sophia Wilson",
+      "Email": "sophiawilson@example.com",
+      "MobileNumber": "+1 111-111-1111",
+      "DateofOccupancy": "2023-11-15"
+    },
+    {
+      "HouseTitle": "Stylish Condo",
+      "FullNames": "Liam Taylor",
+      "Email": "liamtaylor@example.com",
+      "MobileNumber": "+1 666-666-6666",
+      "DateofOccupancy": "2023-12-01"
+    },
+    {
+      "HouseTitle": "Rustic Farmhouse",
+      "FullNames": "Ava Martinez",
+      "Email": "avamartinez@example.com",
+      "MobileNumber": "+1 999-999-9999",
+      "DateofOccupancy": "2023-12-15"
+    }
   ]
 }
